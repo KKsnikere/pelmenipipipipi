@@ -2,4 +2,4 @@
 
 ![Attēls](pics/screen1.png)
 
-![Attēls](pics/screen2.png)
+![Attēls](pics/screen4.png)
